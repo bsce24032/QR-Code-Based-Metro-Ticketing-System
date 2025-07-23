@@ -1,0 +1,8 @@
+# Ingore the below directories or files
+.vscode
+*.exe
+*.out
+*.json
+*.png
+*.txt
+venv
